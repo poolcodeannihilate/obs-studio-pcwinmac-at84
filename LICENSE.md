@@ -1,4 +1,4 @@
-# 
+# Official OBS Studio extensions for Mac OS | Native OBS Studio extensions for PC Windows. Featuring pitch-shifting and project-templates — optimized for maximum performance on every platform.
 
 
 
